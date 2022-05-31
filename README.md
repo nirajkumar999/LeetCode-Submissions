@@ -1,7 +1,7 @@
 # LeetCode-Submissions
 All Of My LeetCode Question Submissions  
   
- ## Total Submission 81
+ ## Total Submission 83
  
  
  
@@ -83,8 +83,10 @@ All Of My LeetCode Question Submissions
 <br />[1870-https://leetcode.com/problems/minimum-speed-to-arrive-on-time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time)
 <br />[1886-https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 <br />[1910-https://leetcode.com/problems/remove-all-occurrences-of-a-substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)
+<br />[1945-https://leetcode.com/problems/sum-of-digits-of-string-after-convert/](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
 <br />[1991-https://leetcode.com/problems/find-the-middle-index-in-array](https://leetcode.com/problems/find-the-middle-index-in-array)
 <br />[2089-https://leetcode.com/problems/find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)
 <br />[2091-https://leetcode.com/problems/removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)
 <br />[2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)
 <br />[2169-https://leetcode.com/problems/count-operations-to-obtain-zero/](https://leetcode.com/problems/count-operations-to-obtain-zero/)
+<br />[2180-https://leetcode.com/problems/count-integers-with-even-digit-sum/](https://leetcode.com/problems/count-integers-with-even-digit-sum/)
