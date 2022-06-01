@@ -79,6 +79,7 @@ All Of My LeetCode Question Submissions
 <br />[1283-https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)
 <br />[1342-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 <br />[1404-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
+<br />[1461-https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 <br />[1480-https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/)
 <br />[1482-https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)
 <br />[1552-https://leetcode.com/problems/magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)
