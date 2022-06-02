@@ -65,6 +65,7 @@ All Of My LeetCode Question Submissions
 <br />[833-https://leetcode.com/problems/find-and-replace-in-string/](https://leetcode.com/problems/find-and-replace-in-string/)
 <br />[844-https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)
 <br />[852-https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+<br />[867-https://leetcode.com/problems/transpose-matrix/](https://leetcode.com/problems/transpose-matrix/)
 <br />[875-https://leetcode.com/problems/koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)
 <br />[905-https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)
 <br />[941-https://leetcode.com/problems/valid-mountain-array/](https://leetcode.com/problems/valid-mountain-array/)
