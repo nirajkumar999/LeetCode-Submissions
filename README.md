@@ -46,6 +46,7 @@ All Of My LeetCode Question Submissions
 [268-https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
 [287-https://leetcode.com/problems/find-the-duplicate-number/](https://leetcode.com/problems/find-the-duplicate-number/)  
 [303-https://leetcode.com/problems/range-sum-query-immutable/](https://leetcode.com/problems/range-sum-query-immutable/)  
+[304-https://leetcode.com/problems/range-sum-query-2d-immutable/](https://leetcode.com/problems/range-sum-query-2d-immutable/)  
 [312-https://leetcode.com/problems/burst-balloons](https://leetcode.com/problems/burst-balloons)  
 [326-https://leetcode.com/problems/power-of-three](https://leetcode.com/problems/power-of-three)  
 [338-https://leetcode.com/problems/counting-bits](https://leetcode.com/problems/counting-bits)  
