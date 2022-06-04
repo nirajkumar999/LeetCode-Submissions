@@ -17,6 +17,7 @@ All Of My LeetCode Question Submissions
 [50-https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n)  
 [54-https://leetcode.com/problems/spiral-matrix/submissions/](https://leetcode.com/problems/spiral-matrix/submissions/)  
 [59-https://leetcode.com/problems/spiral-matrix-ii/](https://leetcode.com/problems/spiral-matrix-ii/)  
+[62-https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)  
 [69-https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx)  
 [70-https://leetcode.com/problems/climbing-stairs](https://leetcode.com/problems/climbing-stairs)  
 [74-https://leetcode.com/problems/search-a-2d-matrix/](https://leetcode.com/problems/search-a-2d-matrix/)  
