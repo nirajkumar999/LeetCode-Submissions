@@ -12,6 +12,7 @@ All Of My LeetCode Question Submissions
 [7-https://leetcode.com/problems/reverse-integer](https://leetcode.com/problems/reverse-integer)  
 [15-https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
 [26-https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+[27-https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
 [33-https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
 [34-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
 [46-https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
