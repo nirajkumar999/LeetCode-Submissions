@@ -101,5 +101,6 @@ All Of My LeetCode Question Submissions
 [2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)  
 [2169-https://leetcode.com/problems/count-operations-to-obtain-zero/](https://leetcode.com/problems/count-operations-to-obtain-zero/)  
 [2180-https://leetcode.com/problems/count-integers-with-even-digit-sum/](https://leetcode.com/problems/count-integers-with-even-digit-sum/)  
+[2293-https://leetcode.com/problems/min-max-game/](https://leetcode.com/problems/min-max-game/)  
 [2294-https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)  
 [2296-https://leetcode.com/problems/design-a-text-editor/](https://leetcode.com/problems/design-a-text-editor/)  
