@@ -68,6 +68,7 @@ All Of My LeetCode Question Submissions
 [633-https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
 [680-https://leetcode.com/problems/valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)  
 [724-https://leetcode.com/problems/find-pivot-index](https://leetcode.com/problems/find-pivot-index)  
+[746-https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)  
 [833-https://leetcode.com/problems/find-and-replace-in-string/](https://leetcode.com/problems/find-and-replace-in-string/)  
 [844-https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)  
 [852-https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)  
