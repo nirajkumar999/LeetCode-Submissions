@@ -12,6 +12,7 @@ All Of My LeetCode Question Submissions
 [3-https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 [7-https://leetcode.com/problems/reverse-integer](https://leetcode.com/problems/reverse-integer)  
 [15-https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
+[20 - https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
 [26-https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
 [27-https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
 [33-https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
