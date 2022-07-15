@@ -82,6 +82,7 @@ All Of My LeetCode Question Submissions
 [496-https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)  
 [503-https://leetcode.com/problems/next-greater-element-ii/](https://leetcode.com/problems/next-greater-element-ii/)  
 [509-https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
+[567-https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)  
 [633-https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
 [680-https://leetcode.com/problems/valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)  
 [724-https://leetcode.com/problems/find-pivot-index](https://leetcode.com/problems/find-pivot-index)  
