@@ -60,6 +60,7 @@ All Of My LeetCode Question Submissions
 [263-https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/)  
 [264-https://leetcode.com/problems/ugly-number-ii/](https://leetcode.com/problems/ugly-number-ii/)  
 [268-https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
+[283-https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)  
 [287-https://leetcode.com/problems/find-the-duplicate-number/](https://leetcode.com/problems/find-the-duplicate-number/)  
 [303-https://leetcode.com/problems/range-sum-query-immutable/](https://leetcode.com/problems/range-sum-query-immutable/)  
 [304-https://leetcode.com/problems/range-sum-query-2d-immutable/](https://leetcode.com/problems/range-sum-query-2d-immutable/)  
