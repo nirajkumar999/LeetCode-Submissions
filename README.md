@@ -80,6 +80,7 @@ All Of My LeetCode Question Submissions
 [448-https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)  
 [492-https://leetcode.com/problems/construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)  
 [496-https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)  
+[503-https://leetcode.com/problems/next-greater-element-ii/](https://leetcode.com/problems/next-greater-element-ii/)  
 [509-https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
 [633-https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
 [680-https://leetcode.com/problems/valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)  
