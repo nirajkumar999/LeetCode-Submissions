@@ -131,6 +131,7 @@ All Of My LeetCode Question Submissions
 [2091-https://leetcode.com/problems/removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)  
 [2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)  
 [2169-https://leetcode.com/problems/count-operations-to-obtain-zero/](https://leetcode.com/problems/count-operations-to-obtain-zero/)  
+[2273-https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)  
 [2180-https://leetcode.com/problems/count-integers-with-even-digit-sum/](https://leetcode.com/problems/count-integers-with-even-digit-sum/)  
 [2293-https://leetcode.com/problems/min-max-game/](https://leetcode.com/problems/min-max-game/)  
 [2294-https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)  
