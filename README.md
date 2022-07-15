@@ -119,6 +119,7 @@ All Of My LeetCode Question Submissions
 [1658-https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)  
 [1695-https://leetcode.com/problems/maximum-erasure-value/](https://leetcode.com/problems/maximum-erasure-value/)  
 [1679-https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)  
+[1855-https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)  
 [1870-https://leetcode.com/problems/minimum-speed-to-arrive-on-time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time)  
 [1886-https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)  
 [1910-https://leetcode.com/problems/remove-all-occurrences-of-a-substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)  
